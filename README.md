@@ -8,6 +8,7 @@
 - [GitHub API](https://docs.github.com/en/rest)
 - [Bootstrap](https://getbootstrap.com/)
 - [PDF.js](https://mozilla.github.io/pdf.js/)
+- [pdfjs-viewer](https://github.com/dealfonso/pdfjs-viewer)
 - JavaScript
 
 ## 取得指定 GitHub Repository 的檔案列表及檔案路徑
